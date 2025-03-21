@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Passionate about **Next.js**, I create content for intermediate and advanced developers.  
-🎥 I share tutorials and real-world projects on **[JavaScript Practice](https://www.youtube.com/...)**.  
+🚀 Passionate about **Node.js**, **React.js**, **Next.js**, I create content for intermediate and advanced developers.  
+🎥 I share tutorials and real-world projects on **[JavaScript Practice](https://www.youtube.com/@javascriptpractice)**.  
 
 ---
 
 ### 🔥 What I'm working on:
-- 🏗 **[Soccer App](https://github.com/...)** – A CRUD app to showcase football players.  
-- 🛍 **E-commerce Platform** – A full-stack Next.js app with internal API.  
-- 🎨 **[Portfolia](https://github.com/...)** – A Next.js portfolio template with **dark mode**.  
+- 🛍 **E-commerce Platform** – A full-stack Next.js app with internal API.   
+- 🎨 **[Portfolia](https://osirismigan.vercel.app/)** – A Next.js portfolio template with **Daisy UI**.
+- 🏗 **[Soccer App](https://github.com/Osiris8/player-app)** – A CRUD app to showcase football players.  
+ 
 
 ---
 
 ### 💡 What I do:
-- 🎯 Build full-stack applications with **Next.js**.
+- 🎯 Build full-stack applications with **Node.js**, **React.js** and **Next.js**.
 - 🎬 Create **YouTube tutorials** to teach modern web development.
 - 💡 Explore **AI, automation, and digital tools** for businesses.
 
