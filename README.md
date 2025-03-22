@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 ---
 
 ⚡ **Fun fact**: I love breaking down complex topics into simple, practical examples!  
-💬 **Ask me about**: Next.js, TypeScript, and building SaaS applications.  
+💬 **Ask me about**: Node.js, React.js, Next.js, TypeScript, and building SaaS applications.  
