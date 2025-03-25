@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🔥 What I'm working on:
-- 🛍 **E-commerce Platform** – A full-stack Next.js app with internal API.   
+- 🛍 **[E-commerce Platform](https://github.com/Osiris8/shopy)** – A full-stack Next.js app with internal API.   
 - 🎨 **[Portfolia](https://osirismigan.vercel.app/)** – A Next.js portfolio template with **Daisy UI**.
 - 🏗 **[Soccer App](https://github.com/Osiris8/player-app)** – A CRUD app to showcase football players.  
  
