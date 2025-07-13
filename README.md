@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🚀 Passionate about **Node.js**, **React.js**, **Next.js**, I create content for intermediate and advanced developers.  
-🎥 I share tutorials and real-world projects on **[JavaScript Practice](https://www.youtube.com/@javascriptpractice)**.  
+🎥 I share tutorials and real-world projects on **[Code With Osiris](https://www.youtube.com/@codewithosiris)**.  
 
 ---
 
