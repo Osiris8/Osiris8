@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Passionate about **Node.js**, **React.js**, **Next.js**, I create content for intermediate and advanced developers.  
+🚀 Passionate about **Node.js**, **Python**, **React.js**, **Next.js**, I create content for intermediate and advanced developers.  
 🎥 I share tutorials and real-world projects on **[Code With Osiris](https://www.youtube.com/@codewithosiris)**.  
 
 ---
